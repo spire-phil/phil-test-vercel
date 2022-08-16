@@ -13,6 +13,38 @@
     {
       "source": "/gettime",
       "destination": "/api/gettime"
+    },
+    {
+      "source": "/gettime2",
+      "destination": "/api/gettime"
+    },
+    {
+      "source": "/gettime3",
+      "destination": "/api/gettime"
+    },
+    {
+      "source": "/gettime4",
+      "destination": "/api/gettime"
+    },
+    {
+      "source": "/gettime5",
+      "destination": "/api/gettime"
+    },
+    {
+      "source": "/gettime6",
+      "destination": "/api/gettime"
+    },
+    {
+      "source": "/gettime7",
+      "destination": "/api/gettime"
+    },
+    {
+      "source": "/gettime8",
+      "destination": "/api/gettime"
+    },
+    {
+      "source": "/gettime9",
+      "destination": "/api/gettime"
     }
   ]
 }
