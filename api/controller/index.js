@@ -2,7 +2,7 @@ export const getTime = async (req, res) => {
   try {
     res.json({
       message: 'Successfully got time',
-      body: { data: Date.now().toString },
+      body: { data: Date.now() },
       status: true
     });
   } catch (error) {
