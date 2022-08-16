@@ -8,5 +8,11 @@
         "serverFiles": ["server-middleware/**", "api/**"]
       }
     }                                  
-  ]                                    
+  ],                                    
+  "rewrites": [
+    {
+      "source": "/gettime",
+      "destination": "/api/gettime"
+    },
+  ]
 }
