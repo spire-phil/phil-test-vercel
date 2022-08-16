@@ -42,7 +42,8 @@
     "vue": "^2.6.12",
     "vue-awesome-swiper": "4.1.1",
     "vue-country-region-select": "^2.0.14",
-    "vuelidate": "^0.7.6"
+    "vuelidate": "^0.7.6",
+    "vuetify": "^2.6.9"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^5.0.0",
