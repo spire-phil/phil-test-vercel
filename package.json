@@ -16,6 +16,7 @@
     "deploy": "npm run generate && vercel"
   },
   "dependencies": {
+    "@bigcommerce/checkout-sdk": "^1.59.0",
     "@nuxtjs/axios": "^5.12.4",
     "@nuxtjs/dotenv": "^1.4.1",
     "@nuxtjs/proxy": "^2.1.0",
@@ -28,7 +29,7 @@
     "@tailwindcss/forms": "^0.3.2",
     "cookie-universal-nuxt": "^2.1.5",
     "core-js": "^3.8.1",
-    "dayjs": "^1.10.6",
+    "dayjs": "^1.11.5",
     "express": "^4.17.1",
     "glob": "^7.1.7",
     "jsonwebtoken": "^8.5.1",
@@ -37,6 +38,7 @@
     "nuxt-responsive-loader": "^2.0.1",
     "sass-loader": "^8.0.2",
     "set-cookie-parser": "^2.4.8",
+    "sweetalert2": "^11.4.26",
     "swiper": "5",
     "uuid": "^8.3.2",
     "vue": "^2.6.12",
